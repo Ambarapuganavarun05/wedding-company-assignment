@@ -81,15 +81,7 @@ Swagger UI provides:
 ✔ Response Details & Error Messages
 
 
-/db-check success
 
-/org/create success
-
-/admin/login token received
-
-/org/update success
-
-/org/delete success
 
 
 
